@@ -1,6 +1,6 @@
 {
-  "name": "wc-discord-message",
-  "version": "2.0.4",
+  "name": "@mikesol/wc-discord-message",
+  "version": "3.0.0",
   "description": "Web components to easily build and display fake Discord messages on your webpages.",
   "keywords": [
     "stencil",
@@ -13,10 +13,10 @@
     "embed"
   ],
   "homepage": "https://wc-discord-message.netlify.app/",
-  "repository": "https://github.com/Danktuary/wc-discord-message.git",
-  "author": "Sanctuary <sanc.pw@gmail.com>",
+  "repository": "https://github.com/mikesol/wc-discord-message.git",
+  "author": "Mike Solomon <mike.solomon@hey.com>",
   "license": "MIT",
-  "main": "dist/index.js",
+  "main": "dist/index.cjs.js",
   "module": "dist/index.mjs",
   "es2015": "dist/esm/index.mjs",
   "es2017": "dist/esm/index.mjs",
