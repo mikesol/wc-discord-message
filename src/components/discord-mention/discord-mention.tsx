@@ -46,7 +46,7 @@ export class DiscordMention {
 		}
 	}
 
-	componentDidUnload() {
+	disconnectedCallback() {
 		if (this.color && this.type === 'role') {
 			this.el.removeEventListener('mouseover', this.setHoverColor.bind(this))
 			this.el.removeEventListener('mouseout', this.resetHoverColor.bind(this))
