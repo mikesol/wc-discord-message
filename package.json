@@ -1,6 +1,6 @@
 {
   "name": "@mikesol/wc-discord-message",
-  "version": "3.0.0",
+  "version": "3.0.2",
   "description": "Web components to easily build and display fake Discord messages on your webpages.",
   "keywords": [
     "stencil",
